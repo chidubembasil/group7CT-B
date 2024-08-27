@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Orange colors for theme -->
+    <color name="orangePrimary">#FF9800</color>
+    <color name="orangeDark">#F57C00</color>
+    <color name="orangeLight">#FFA726</color>
+</resources>

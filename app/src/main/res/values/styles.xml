@@ -1,0 +1,36 @@
+<resources>
+
+    <style name="NumberButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#333333</item>
+        <item name="backgroundTint">#FFFFFF</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+
+    <style name="OperatorButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="backgroundTint">#FF9800</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+
+    <style name="EqualButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="backgroundTint">#4CAF50</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+
+    <!-- Global Theme -->
+    <style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/orangePrimary</item>
+        <item name="colorPrimaryVariant">@color/orangeDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/orangeLight</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+
+</resources>
